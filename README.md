@@ -1,2 +1,2 @@
-# eloo.github.io
+# eloo-blog
 Eloo's blog 
